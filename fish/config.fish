@@ -11,4 +11,4 @@ alias grep="rg"
 # ifetch aliases
 alias Ifetch="~/ifetch/Ifetch.sh"
 
-neofetch
+~/shell-color-scripts/colorscripts/colorbars
