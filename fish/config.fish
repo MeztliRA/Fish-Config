@@ -1,7 +1,7 @@
 # Fish config file
 
 ### Export path ###
-set PATH $PATH /home/meztli/go/bin
+set PATH $PATH /home/meztli/go/bin /home/meztli/.local/bin
 
 ### Aliases ###
 # ls aliases 
