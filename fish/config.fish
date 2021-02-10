@@ -12,6 +12,6 @@ alias cat="bat"
 # grep aliases
 alias grep="rg"
 # ifetch aliases
-alias Ifetch="~/ifetch/Ifetch.sh"
+alias Ifetch="~/Ifetch/Ifetch.sh"
 
 ~/shell-color-scripts/colorscripts/colorbars
