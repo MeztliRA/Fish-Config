@@ -1,7 +1,7 @@
 # Fish config file
 
 ### Export path ###
-set PATH $PATH /home/meztli/go/bin /home/meztli/.local/bin /home/meztli/.emacs.d/bin /home/meztli/.cargo/bin
+set PATH $PATH /home/meztli/go/bin /home/meztli/.local/bin /home/meztli/.emacs.d/bin /home/meztli/.cargo/bin /usr/lib64/openjdk-11/bin
 
 ### Aliases ###
 # ls aliases 
