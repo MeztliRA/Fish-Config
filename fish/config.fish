@@ -21,3 +21,5 @@ alias Ifetch="~/Ifetch/Ifetch.sh"
 complete -f -c dotnet -a "(dotnet complete)"
 
 ~/shell-color-scripts/colorscripts/colorbars
+
+starship init fish | source
